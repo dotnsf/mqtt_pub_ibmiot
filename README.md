@@ -2,7 +2,7 @@
 
 ## Overview
 
-MQTT Publisher for IBM IoT Platform service.
+MQTT Publisher for IBM Watson IoT Platform service.
 
 
 ## Settings
